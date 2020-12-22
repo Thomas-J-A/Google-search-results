@@ -64,12 +64,17 @@ header > div {
 nav {
     border-bottom: 1px solid #ddd;
     font-size: 13px;
+    padding-bottom: 7px;
     padding-left: 180px;
     opacity: 0.6;
 }
 
+nav i {
+    margin-right: 5px;
+}
+
 li {
-    margin: 5px 36px 10px 0;
+    margin: 5px 33px 10px 0;
     display: inline-block;
 }
 
